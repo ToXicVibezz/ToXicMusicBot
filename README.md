@@ -1,6 +1,6 @@
 <img src="https://private-user-images.githubusercontent.com/123037581/382641059-37edfd0f-6be9-49c8-a34f-6deedde39f47.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzA2OTU0ODYsIm5iZiI6MTczMDY5NTE4NiwicGF0aCI6Ii8xMjMwMzc1ODEvMzgyNjQxMDU5LTM3ZWRmZDBmLTZiZTktNDljOC1hMzRmLTZkZWVkZGUzOWY0Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTEwNFQwNDM5NDZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mMzMyYjM5NWM5NjIwZTdhOWEzODNjYTQ1Y2U5ZTM2NTY5MjM4ZTFiMmJlMGM5N2EyYjhkMWMwMzEwMTdkMzI4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.3yXd74abx04LnVLtCY6FAzsqFwRuhPx1ZJM4spa2W5w"/>
 
-# Zero-Two Discord Bot
+# ToxicMusic Discord Bot
 
 [![Downloads](https://img.shields.io/github/downloads/jagrosh/MusicBot/total.svg)](https://github.com/ToXicVibezz/ToxicMusic/releases/latest)
 [![Stars](https://img.shields.io/github/stars/jagrosh/MusicBot.svg)](https://github.com/ToXicVibezz/ToxicMusic/stargazers)
@@ -28,7 +28,7 @@ A private Discord bot with a music player that has extensive support for many pl
   * Playlist support (both web/youtube, and local)
 
 ## Supported sources and formats
-Zero-Two supports all sources and formats supported by [lavaplayer](https://github.com/sedmelluq/lavaplayer#supported-formats):
+ToxicMusic supports all sources and formats supported by [lavaplayer](https://github.com/sedmelluq/lavaplayer#supported-formats):
 ### Sources
   * YouTube
   * SoundCloud
